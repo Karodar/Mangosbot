@@ -2685,7 +2685,7 @@ function createDropdown(opts)
         local info = {}
         for i = 1, table.getn(menu_items) do
             info = {}
-            info.text = menu_items[i] .. "..."
+            info.text = L(menu_items[i]) .. "..."
             info.checked = false
             info.menuList= i
             info.hasArrow = false
@@ -2760,7 +2760,7 @@ botTable = {}
 SelectedBotPanel = {}
 BotRoster = CreateBotRoster();
 BotDebugPanel = CreateBotDebugPanel();
-DropDownMenu_Current = CreateDropDownMenu("more", "More", BotMenuItems_Current, BotMenuCommands_Current, BotRoster)
+DropDownMenu_Current = CreateDropDownMenu("more", L("More"), BotMenuItems_Current, BotMenuCommands_Current, BotRoster)
 CurrentBot = nil
 LastBot = nil
 BotDebugFilter = ""
