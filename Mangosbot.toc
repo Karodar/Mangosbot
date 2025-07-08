@@ -5,5 +5,7 @@
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariables: frameopts, mangosbot_options
+Mangosbot_Localization.lua
+Bindings.xml
 Mangosbot.lua
 Mangosbot.xml

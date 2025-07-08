@@ -9,3 +9,6 @@ BINDING_NAME_LOOT = "Bot Actions: Loot";
 BINDING_NAME_ATTACK = "Bot Actions: Attack";
 BINDING_NAME_PULL = "Bot Actions: Pull";
 BINDING_NAME_BOOST = "Bot Actions: Toggle Boost";
+MANGOSBOT_ICONS_DISABLED = "Mangosbot: Native icons disabled";
+MANGOSBOT_ICONS_ENABLED = "Mangosbot: Native icons enabled";
+MANGOSBOT_LOADED = "MangosBOT Addon is loaded";
