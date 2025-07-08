@@ -1,1 +1,11 @@
-.idea
+.idea/
+.vscode/
+.vs/
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.project
+.classpath
+.settings/
+nbproject/
