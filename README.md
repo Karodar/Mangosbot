@@ -1,13 +1,16 @@
-# Mangosbot UI (WoW client addon)
-## Installation
-Checkout all files to your Interface/Addons/Mangosbot folder (Mangosbot needs to be created first).
+# Mangosbot UI (аддон клиента WoW)
 
-## Bot Roster
-Run `/bot` command in WoW to bring Bot Roster window. Click `Login` buttons on appropriate bot window to bring this bot online.
+## Установка
+Скопируйте все файлы в папку Interface/Addons/Mangosbot (папку Mangosbot нужно создать заранее).
+
+## Список ботов
+Команда `/bot` открывает в игре окно Bot Roster. Нажмите `Login` в нужном окне, чтобы вызвать бота.
 
 ![Screenshot](screenshots/bot_roster.png)
 
-## Bot Controls
-Select your bot to bring Bot Controls window. Use numerous buttons to control your bot actions.
+## Управление ботом
+Выберите бота, чтобы открыть окно Bot Controls. Используйте кнопки для управления его действиями.
 
 ![Screenshot](screenshots/bot_controls.png)
+
+Аддон поддерживает локализации для трёх языков: английского, русского и китайского.
